@@ -1,5 +1,8 @@
 package it.hacker.mysql;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * MySQL问题
@@ -10,7 +13,12 @@ package it.hacker.mysql;
 public class MysqlCreateIndexAndKinds {
     public static void main(String[] args) {
 
+
+
+
+
     }
+
 
 
 
